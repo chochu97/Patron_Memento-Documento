@@ -1,0 +1,6 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\Entidades\bin\Debug\Entidades.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\Entidades\obj\Debug\Entidades.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\Entidades\obj\Debug\Entidades.pdb

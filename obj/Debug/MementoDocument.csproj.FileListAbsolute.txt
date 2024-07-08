@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\bin\Debug\MementoDocument.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\bin\Debug\MementoDocument.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\bin\Debug\MementoDocument.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\bin\Debug\Entidades.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\bin\Debug\Entidades.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\obj\Debug\MementoDocument.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\obj\Debug\MementoDocument.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\obj\Debug\MementoD.7512A9C6.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\obj\Debug\MementoDocument.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoDocumento\MementoDocument\obj\Debug\MementoDocument.pdb
